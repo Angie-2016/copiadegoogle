@@ -29,4 +29,4 @@ Aprender a utilizar las etiquetas estandar de HTML5 y CSS3.
 
 ### Link a demo
 En el siguiente link puedes ver mi proyecto terminado: 
-[Clon de Google](copiadegoogle-beta.vercel.app)
+[Clon de Google](copiadegoogle-88lmwv7nv-angies-projects-2b307331.vercel.app)
