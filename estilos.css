@@ -121,7 +121,8 @@ main .main-input-container:hover{
  }
 
  main .main-buttons{
-height: 50px;    margin: 20px auto;
+    width: 530px;
+    margin: 20px auto;
  }
  main .main-buttons div{
     display: inline-block;
@@ -141,3 +142,4 @@ height: 50px;    margin: 20px auto;
     box-shadow: 0 0.5px 1px 0 #000001;
     cursor: pointer;
  }
+
